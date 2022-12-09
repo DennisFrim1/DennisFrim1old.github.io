@@ -1,0 +1,77 @@
+<h1>Favorite Athletes</h1>
+<html>
+  <head>
+   
+    <title>Restaurant Menu Example</title>
+	  
+	 <p>If you can see this, the Dreamweaver push worked.</p>
+    
+  </head>
+
+<body>
+  <!--This creates a <div> with an ID of "Top" which holds the links the the restaurant information-->
+
+<div id = "Top">
+<img src="athlete.png" width = "400" height = "400">
+<br>
+
+ <!--These are the 3 page anchors which link to specific parts of the website-->
+<a href="#Soccer"> Soccer Players </a>
+<br>
+<a href="#Basketball"> Basketball Players </a>
+<br>
+<a href="#Boxing"> Boxers </a>
+<br>
+<a href="#UFC"> UFC Fighters </a>
+<br>
+
+
+</div>
+
+
+
+
+<!--First division is assigned an id of "Apps"-->
+
+<div id = "Soccer">
+<h1> Soccer Players </h1>
+<img alt = "Soccer" src = "4soccerplayers.png" height = "400" width = "400">
+<br>
+<!--This is the page anchor which links back to the Top of the page-->
+<a href="#Top"> Go back to the top </a> <br>
+</div >
+
+<!--Second division is assigned an id of "Mains"-->
+<div id = "Basketball">
+<h1> Basketball Players </h1>
+<img alt = "Basketball" src = "4Basketballplayers.png" height = "400" width = "400">
+<br>
+<!--This is the page anchor which links back to the Top of the page-->
+<a href="#Top"> Go back to the top </a> <br>
+</div>
+
+
+<div id = "Boxing";>
+<h1> Boxers </h1>
+<img alt = "Boxers" src = "4Boxers.png" >
+<br>
+<a href="#Top"> Go back to the top </a> <br>
+</div>
+
+<div id = "UFC">
+<h1> UFC Fighters </h1>
+</div>
+<img alt = "UFC" src = "russianfighter.jpeg" >
+  <br>
+  <img alt ="UFC" src = "4UFC.png"
+    <br>
+<a href="#Top"> Go back to the top </a> <br>
+</div>
+<br>
+	<a href = digitaldesign.html>Back To First Page</a>
+  
+</div>
+
+</body>
+
+</html>
